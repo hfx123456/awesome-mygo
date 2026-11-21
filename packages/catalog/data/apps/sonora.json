@@ -10,8 +10,11 @@
 	"url": "https://github.com/hfx123456/Sonora",
 	"repo": "hfx123456/Sonora",
 	"summary": {
-		"en": "Spotify & local music player for Windows and macOS with bilingual word-timed lyrics, multi-monitor island, Flow backdrop, and Liquid Glass.",
-		"zh-CN": "支持双语逐字歌词、跨屏灵动岛、流光背景、液态玻璃与本地音乐的 Windows / macOS Spotify 播放器。"
+		"en": "Windows & macOS Spotify and local player with bilingual lyrics, Dynamic Island & Flow.",
+		"zh-CN": "支持双语逐字歌词、跨屏灵动岛、流光背景与本地音乐的 Windows / macOS 播放器。",
+		"zh-TW": "支援雙語逐字歌詞、跨螢幕靈動島、流光背景與本機音樂的 Windows / macOS 播放器。",
+		"ja": "二言語歌詞・マルチモニター対応アイランド・Flow 背景を備えた Windows / macOS 向け音楽プレーヤー。",
+		"ko": "이중 언어 가사, 다중 모니터 다이내믹 아일랜드, Flow 배경을 지원하는 Windows·macOS 플레이어."
 	},
 	"description": {
 		"en": "An independent fork of MySpotify for Windows and macOS built with MyGo's native UI. Adds an embedded multi-source bilingual lyrics engine (NetEase, QQ Music, LRCLIB via Lyricify Lyrics Helper), a draggable multi-monitor Dynamic Island with instant click-through unlock, word-timed bilingual stage animations, Apple Music-style GPU Flow backdrop, iOS-style Liquid Glass controls, local music playback, and sticky playlist search.",
