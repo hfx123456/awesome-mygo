@@ -1,0 +1,22 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "flowlog",
+	"name": "FlowLog",
+	"author": "Mixsu",
+	"kind": "native",
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"group": "notes",
+	"url": "https://github.com/coder-xmtx/FlowLog-Desktop",
+	"repo": "coder-xmtx/FlowLog-Desktop",
+	"summary": {
+		"en": "一个记录每日学习情况的桌面应用：按科目、章节与要点组织学记，附带当天待办，把每天的学习和思考都写成一条清晰的流。"
+	},
+	"description": {
+		"en": "一个记录每日学习情况的桌面应用：按科目、章节与要点组织学记，附带当天待办，把每天的学习和思考都写成一条清晰的流。"
+	},
+	"added": "2026-11-21T12:06:17Z"
+}
